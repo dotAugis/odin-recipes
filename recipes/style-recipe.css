@@ -1,0 +1,31 @@
+body {
+    background-color: #6C5A49;
+    color: rgba(0,0,0,0.7);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h3 {
+    color: #D0FCB3;
+    text-transform: uppercase;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+
+a {
+    text-decoration: none;
+    color: #D0FCB3;
+    text-transform:uppercase;
+    font-size: .7em;
+}
+
+a:hover {
+    color: #C8AD55;
+}

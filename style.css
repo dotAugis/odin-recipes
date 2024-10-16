@@ -1,0 +1,54 @@
+body {
+    background-color: #6C5A49;
+    color: rgba(0,0,0,0.7);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* header */
+
+.header {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 3em;
+}
+
+.header h1 {
+    color: #D0FCB3;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+.header a {
+    font-size: .7em;
+    text-decoration: none;
+    color: rgba(0,0,0,0.7);
+}
+
+.header a:hover {
+    color: #C8AD55;
+}
+
+/* links */
+
+ul {
+    text-align: center;
+    padding: 0;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: #D0FCB3;
+}
+
+li a:hover {
+    color: #C8AD55;
+}
+
+li a:visited {
+    color: #271F30;
+}
+
+li a:visited:hover {
+    color: #C8AD55;
+}
