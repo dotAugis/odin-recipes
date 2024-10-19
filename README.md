@@ -4,3 +4,4 @@ I am going to be using nothing else but an IDE & Terminal to build the page, as 
 
 Sep 18 - The start of the project. Focus on HTML structure.
 Oct 16 - Basic CSS practice.
+Oct 19 - Introducing Box Model, block & inline elements.
